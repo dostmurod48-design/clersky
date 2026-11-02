@@ -313,4 +313,11 @@ ul{
 center{
     display: flex;
     justify-content: center;
+    gap: 100px;
+}
+.list{
+    display: flex;
+    gap: 20px;
+    color: #198C36;
+    font-size: 14px;
 }

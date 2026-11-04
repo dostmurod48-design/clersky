@@ -64,7 +64,7 @@ ul{
     display: flex;
     color: white;
     justify-content: center;
-    gap: 49px;
+    gap: 130px;
     text-align: center;
 }
 .text{
@@ -320,4 +320,18 @@ center{
     gap: 20px;
     color: #198C36;
     font-size: 14px;
+}
+.mid{
+    color: white;
+    text-align: center;
+    padding-top: 100px;
+}
+.sec_con{
+    display: flex;
+    gap: 190px;
+    justify-content: space-around;
+}
+.bck_green{
+    width: 1370px;
+    background: #163A24;
 }
